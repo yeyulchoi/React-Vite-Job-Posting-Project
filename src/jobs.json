@@ -1,0 +1,46 @@
+{
+  "jobs": [
+    {
+      "id": "5",
+      "title": "Full Stack React Developer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a Full-Time Front-End Developer in bustling Atlanta, GA. We are seeking a talented individual with a passion for building elegant and scalable web applications. Join our team and make an impact!",
+      "location": "Atlanta, GA",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "Browning Technologies",
+        "description": "Browning Technologies is a rapidly growing technology company specializing in e-commerce solutions. We offer a dynamic and collaborative work environment where employees are encouraged to think creatively and innovate.",
+        "contactEmail": "contact@consecteturadipisicing.com",
+        "contactPhone": "555-555-5555"
+      }
+    },
+    {
+      "id": "09ab",
+      "title": "sdfsd",
+      "type": "Full-Time",
+      "location": "gs",
+      "description": "fsdf",
+      "salary": "Under $50K",
+      "company": {
+        "name": "eff",
+        "description": "aaa",
+        "contactEmail": "yeyulchoi@gmail.com",
+        "contactPhone": "6479951483"
+      }
+    },
+    {
+      "id": "21c3",
+      "title": "python Developer",
+      "type": "Internship",
+      "location": "Richmond Hill",
+      "description": "Need experienced ppl -updated",
+      "salary": "$50K - 60K",
+      "company": {
+        "name": "Happy Company-updated",
+        "description": "goood company-updated",
+        "contactEmail": "yeyulchoi@gmail.ca",
+        "contactPhone": "0806479951483"
+      }
+    }
+  ]
+}
